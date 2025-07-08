@@ -1,0 +1,1 @@
+# German_Stock_Market_Analytics
